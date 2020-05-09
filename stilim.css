@@ -1,0 +1,37 @@
+.navbar
+{
+	background-color:#393 !important;
+
+}
+
+.nav-link
+{
+color:#f5f5dc !important;
+}
+
+.jumbotron {
+
+  background: #f5f5dc;
+  padding: 0%;
+  
+   
+}
+.content
+{
+ background:	#F5F5DC;
+
+}
+.content .colon
+{
+margin:15px 0px;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td
+{
+padding:6%;
+}

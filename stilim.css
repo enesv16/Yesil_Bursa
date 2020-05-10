@@ -9,13 +9,7 @@
 color:#f5f5dc !important;
 }
 
-.jumbotron {
 
-  background: #f5f5dc;
-  padding: 0%;
-  
-   
-}
 .content
 {
  background:	#F5F5DC;
@@ -26,12 +20,15 @@ color:#f5f5dc !important;
 margin:15px 0px;
 
 }
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
+ table {
+        width: 1109px;
+        height: 500px;
+    }
+ 
 
-th,td
-{
-padding:6%;
+
+label
+{          
+    float: left;
+    width: 150px;
 }
